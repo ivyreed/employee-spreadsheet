@@ -18,7 +18,7 @@ clone the repo, go in the terminal and run npm i, then run  node index.js, then 
 This application will be used for employee management.
 
 ## Video
-This is the link to the video
+This is the link to the video https://youtu.be/-B6ju9LpMlU
 
 ### Link
 You can see my Github profile at https://github.com/ivyreed ,
