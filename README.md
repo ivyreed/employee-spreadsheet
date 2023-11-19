@@ -1,4 +1,4 @@
-# note-taking-app
+# SQL Employee Management System
 
 
 ## table of contents
